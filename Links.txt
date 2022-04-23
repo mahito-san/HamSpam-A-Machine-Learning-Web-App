@@ -1,0 +1,21 @@
+Deploy ML model on Youtube:
+https://www.youtube.com/watch?v=aOYtdkzYmAY
+
+
+Fighting Spam on Youtube with Tensorflow & Python:
+https://www.youtube.com/watch?v=zSEYC3CCA1I
+
+
+Scikit Learn - Spam Detection for Youtube Comments using Python & Scikit Learn
+https://www.youtube.com/watch?v=FmmlHbHqgGY
+
+
+Text Classification in Android with Tensorflow Lite
+https://towardsdatascience.com/spam-classification-in-android-with-tensorflow-lite-cde417e81260
+
+
+Update Your App to use a Spam Filtering ML model
+https://codelabs.developers.google.com/tflite-nlp-update-app#0
+
+
+LSTM, BERT model 
