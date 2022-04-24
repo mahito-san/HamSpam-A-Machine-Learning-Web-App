@@ -19,3 +19,10 @@ https://codelabs.developers.google.com/tflite-nlp-update-app#0
 
 
 LSTM, BERT model 
+
+
+Email Spam Classifier | SMS Spam Classifier | End to End Project | Heroku Deployment
+https://www.youtube.com/watch?v=YncZ0WwxyzU
+
+Spam Detection with Naive Bayes (Intro to Machine Learning with WEB Apps)
+https://www.youtube.com/watch?v=K1iImrm509A
