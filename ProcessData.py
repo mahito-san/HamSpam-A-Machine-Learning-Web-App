@@ -36,11 +36,11 @@ def stem_text(text):
     return text
 
 def embed(corpus): 
+    with open('tokenizer.pickle', 'rb') as handle:
+        tokenizer = pickle.load(handle)
     return tokenizer.texts_to_sequences(corpus)
 
 def preprocess_data(text):
-    with open('tokenizer.pickle', 'rb') as handle:
-        tokenizer = pickle.load(handle)
     text = clean_text(text)
     text = remove_stopwords(text)
     text = stem_text(text)
