@@ -26,3 +26,7 @@ https://www.youtube.com/watch?v=YncZ0WwxyzU
 
 Spam Detection with Naive Bayes (Intro to Machine Learning with WEB Apps)
 https://www.youtube.com/watch?v=K1iImrm509A
+
+
+Kaggle LSTM
+https://www.kaggle.com/code/andreshg/nlp-glove-bert-tf-idf-lstm-explained
