@@ -6,8 +6,8 @@ import pickle
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
-from tensorflow.keras.preprocessing.text import Tokenizer
-from tensorflow.keras.preprocessing.sequence import pad_sequences
+from keras.preprocessing.text import Tokenizer
+from keras.preprocessing.sequence import pad_sequences
     
 def clean_text(text):
     '''Make text lowercase, 
