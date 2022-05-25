@@ -8,6 +8,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
+import LSTM
     
 def clean_text(text):
     '''Make text lowercase, 
@@ -47,7 +48,7 @@ def preprocess_data(text):
     text = pd.Series(text)
     text = pad_sequences(
         embed(text), 
-        101, 
+        length_long_sentence, 
         padding='post'
     )
     return text
