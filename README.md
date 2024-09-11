@@ -1,7 +1,7 @@
 # HamSpam: A Machine Learning Web Application
 
-#Summary
-This is a Machine Learning based web app. This app detects a spam comment. For dataset we used `YouTube Spam Collection Dataset`, which consists of spam comments of five different music videos of different singer. We used `Bi-directional Long-Short-Term-Memory (LSTM)` model for the backend of this project and `Django` to built the html, the frontend of this project. 
+# Summary
+This is a machine learning-based web app that detects spam comments. We used the `YouTube Spam Collection Dataset for the dataset, which consists of spam comments on five music videos by various singers. We used the `Bi-directional Long-Short-Term-Memory (LSTM)` model for the backend of this project and `Django` to build the HTML, the frontend of this project. The paper related to this project can be found here: 
 
 To run this project: 
 * Open the folder containing this project in VSCode. 
